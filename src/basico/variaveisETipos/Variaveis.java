@@ -1,4 +1,4 @@
-package basico;
+package basico.variaveisETipos;
 
 public class Variaveis {
 
@@ -17,8 +17,12 @@ public class Variaveis {
 
         //observe que vc pode mudar o valor atraves  dela
         // não precisa  iniciar imediatamente se vc definir o tipo dela
+        int tipoInt;
 
         var seilar=10;
         //a não ser que seja o var pois ele descobre atraves do dado que ele recebeu
+
+
+        //Variaveis usam o padrão lowerCamelCase
     }
 }
