@@ -17,7 +17,7 @@ public class FormatandoComPrintf {
         //se quiser trocar por string %s
         //se quiser trocar por valor inteiro %d
         //se quiser trocar por valor com ponto flutuante %f
-
+        // se quiser trocar por tipo booleano %b
         //O de ponto flutante recebe parametros para  quantidade de casas decimais %.2f
         //entre "%" e o "f" vc pode por ".numero de casas"
 
